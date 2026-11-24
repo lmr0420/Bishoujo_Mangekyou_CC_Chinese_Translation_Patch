@@ -1,7 +1,6 @@
 # 《Bishoujo Mangekyou CC》Chinese Translation Patch
 
-十五周年纪念版汉化补丁制作中
-Simplified Chinese translation patch project for *Bishoujo Mangekyou CC* .
+十五周年纪念版汉化补丁制作中\Simplified Chinese translation patch project for *Bishoujo Mangekyou CC* .
 
 ## Tools & Credits
 
