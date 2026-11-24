@@ -5,6 +5,10 @@ Simplified Chinese translation patch project for *Bishoujo Mangekyou CC* .
 
 目前的文本都在各个Part文件夹里的.s里面，游玩或者阅读的时候觉得有问题可以修改一下
 
+已做完第二部除了H部分以外的汉化，第一部的汉化美少女万华镜2吧有人在做，因为实在太累了我要直接开摆了（）
+需要联系我可以去贴吧，那边看消息比较频繁一点，不过这里也会看的，不会安装的话可以问我
+贴吧汉化原贴：https://tieba.baidu.com/p/11225202320
+
 ## Tools
 ## Acknowledgments & Third-Party Tools
 
