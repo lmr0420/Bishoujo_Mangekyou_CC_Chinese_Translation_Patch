@@ -3,6 +3,8 @@
 十五周年纪念版汉化补丁制作中
 Simplified Chinese translation patch project for *Bishoujo Mangekyou CC* .
 
+目前的文本都在各个Part文件夹里的.s里面，游玩或者阅读的时候觉得有问题可以修改一下
+
 ## Tools
 
 - **[VNTextPatch-net8](https://github.com/rafael-vasconcellos/VNTextPatch-net8)**: Extracts script text to `.jsonl` and injects translated lines back into `.s` files via `insertlocal`.
