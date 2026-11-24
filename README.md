@@ -19,7 +19,7 @@ Simplified Chinese translation patch project for *Bishoujo Mangekyou CC* .
 
 ## Workflow
 
-补丁流程：先把2个.dll文件放入游戏根目录，再用[GARbro](https://github.com/morkt/GARbro) 解包游戏文件夹GameData中的含文本的.pack文件，之后用对应Part里的汉化过的.s文件替换，之后用 **[qliepack](https://github.com/Ginsakura/qliepack)** 重新封包后在游戏根目录新建patch文件夹放入即可游玩。
+补丁流程：先把2个.dll文件放入游戏根目录，再用[GARbro](https://github.com/morkt/GARbro) 解包游戏文件夹GameData中的含文本的.pack文件，之后用对应Part里的汉化过的.s文件替换，最后用 **[qliepack](https://github.com/Ginsakura/qliepack)** 重新封包后在游戏根目录新建patch文件夹放入即可游玩。
 1. Inject `.jsonl` translations into clean `.s` scripts using `VNTextPatch insertlocal`.
 2. Repack the script folder into `data8.pack` using `qliepackV1`.
 3. Place or redirect `data8.pack` to the patch target path and test in-game.
