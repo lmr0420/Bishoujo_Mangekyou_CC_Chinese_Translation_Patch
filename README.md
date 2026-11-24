@@ -3,7 +3,7 @@
 十五周年纪念版汉化补丁制作中
 Simplified Chinese translation patch project for *Bishoujo Mangekyou CC* .
 
-## Tools & Credits
+## Tools
 
 - **[VNTextPatch-net8](https://github.com/rafael-vasconcellos/VNTextPatch-net8)**: Extracts script text to `.jsonl` and injects translated lines back into `.s` files via `insertlocal`.
 - **[qliepack](https://github.com/Ginsakura/qliepack)** (`qliepackV1`): Repacks modified script directories into `data*.pack` archives.
